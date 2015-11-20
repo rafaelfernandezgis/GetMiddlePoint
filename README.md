@@ -12,4 +12,4 @@ All what you need is to pass these arguments: xEnd, yEnd, xOri, yOri
 
 you'll get an **array**, your middle point, just with one element {x:'x', y:'y'}.
 
-See an exmaple in [fiddle](http://jsfiddle.net/rafaelfernandezgis/1Lgxqp01/2/)
+See an example in [fiddle](http://jsfiddle.net/rafaelfernandezgis/1Lgxqp01/2/)
